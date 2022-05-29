@@ -56,3 +56,23 @@ An NN is statistics tool or framework to predict y using x.
     - algorithms (better performance) [sigmoid, relu]
     - research cycle
         - idea -> code -> experiment (10 mins, 1 day, 1 month)
+
+
+## Geoffrey Hinton Interview
+
+- https://es.wikipedia.org/wiki/Geoffrey_Hinton
+    - "Inventor" of back-propagation algorithm
+    - Holograms
+    - Charperter
+    - AI
+    - https://en.wikipedia.org/wiki/Christopher_Longuet-Higgins
+    - https://en.wikipedia.org/wiki/David_Rumelhart
+    - https://en.wikipedia.org/wiki/Don_Norman
+    - https://en.wikipedia.org/wiki/Ronald_J._Williams
+    - https://en.wikipedia.org/wiki/Boltzmann_machine
+    - multitask : fast weights
+    - capsules
+    - Wegsteing Algorithm:
+        - https://dl.acm.org/doi/10.1145/368861.368871
+        - https://www.youtube.com/watch?v=T_6mR6rJXQQ
+    - AI symbolic representation
