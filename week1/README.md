@@ -53,7 +53,7 @@ An NN is statistics tool or framework to predict y using x.
 - progress focused on
     - data
     - computation (better performance) [gpu]
-    - algorithms (better performance) [sigmoid, relu]
+    - algorithms (better performance) [sigmoid -> relu]
     - research cycle
         - idea -> code -> experiment (10 mins, 1 day, 1 month)
 
