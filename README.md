@@ -9,3 +9,8 @@
 
 1. supervised learning
 
+## week 2: neural networks basics
+
+1. Logistic regression as a neural network
+1. Python and vectorization
+1. Quiz
